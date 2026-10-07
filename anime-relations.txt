@@ -147,6 +147,9 @@
 # Bishoujo Senshi Sailor Moon Crystal -> ~ Season III
 - 14751|7163|14751:27-39 -> 31733|11415|21462:1-13!
 
+# Black Clover -> ~ 2nd Season
+- 34572|13209|97940:171-? -> 61967|50024|195604:1-?!
+
 # Black Lagoon -> ~: The Second Barrage
 - 889|789|889:13-24 -> 1519|1363|1519:1-12!
 
