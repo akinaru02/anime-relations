@@ -680,6 +680,9 @@
 # Kidou Senshi Gundam: Suisei no Majo -> ~ Season 2
 - 49828|45217|139274:13-24 -> 53199|46561|155158:1-12!
 
+# Kikansha no Mahou wa Tokubetsu desu -> ~ 2nd Season
+- 54852|47240|163142:13-? -> 57612|48397|172192:1-?!
+
 # Kimi ni Todoke 2nd Season -> ~: Kataomoi
 - 9656|5820|9656:0 -> 10152|6055|10152:1
 
